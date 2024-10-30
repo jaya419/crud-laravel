@@ -7,13 +7,13 @@
                     <ul class="nav sidebar-menu flex-column" data-lte-toggle="treeview" role="menu" data-accordion="false">
                         <li class="nav-item menu-open">
                             <a href="{{ url('') }}" class="nav-link active">
-                                <i class="nav-icon bi bi-speedometer"></i>
+                                <i class="fa-solid fa-table"></i>
                                 <p>
                                     Data pegawai
 
                                 </p>
                                 <a href="{{ route('tambah') }}" class="nav-link active">
-                                <i class="nav-icon bi bi-speedometer"></i>
+                                <i class="fa-solid fa-plus"></i>
                                 <p>
                                     Tambah data
 
