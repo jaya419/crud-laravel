@@ -25,7 +25,7 @@
                     <input type="number" class="form-control" id="no_hp" name="no_hp" value="{{ $data->no_hp }}" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-sm">Simpan Perubahan</button>
-                <a href="{{ url('index') }}" class="btn btn-danger btn-sm">Kembali</a>
+                <a href="{{ url('') }}" class="btn btn-danger btn-sm">Kembali</a>
             </form>
         </div>
     </div>
